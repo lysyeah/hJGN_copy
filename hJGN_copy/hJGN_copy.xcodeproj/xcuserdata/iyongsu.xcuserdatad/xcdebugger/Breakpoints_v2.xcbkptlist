@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7224E19-1463-4E07-8CEC-FDC1EFF05239"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CustomCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - eecac9ab71003f08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.label_custom.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - 585dadbe13d39804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.label_custom.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - 97b4de88cebf594b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.label_custom.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - 65848c8a6d336cbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.label_custom.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - 8fa866b8da4afc05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; hJGN_copy.CustomCell"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "5FE035E1-2435-4FD8-9839-F64DA4EE2530 - f70f1360250d56fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;hJGN_copy.CustomCell&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CustomCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - 2f0f2856d0fdbcad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.imageView_custom.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - ff395622db3d4899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.imageView_custom.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - e8e476ad770b51ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.imageView_custom.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - 7009bfa8cfc32db6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.imageView_custom.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - 8fa866b8da4afc24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; hJGN_copy.CustomCell"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "67DC604F-7177-4A4E-8C95-5BDA1E532560 - f70f1360250d56dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;hJGN_copy.CustomCell&gt;"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05FC8F82-3C79-4918-A7C9-E6BA6DE6BDC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CustomCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A726E47D-221A-4A1D-B4DD-C6FA5CCA5F72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "btnClickAct(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A726E47D-221A-4A1D-B4DD-C6FA5CCA5F72 - 8f5e5dac593c6825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.btnAction(Any) -&gt; ()"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A726E47D-221A-4A1D-B4DD-C6FA5CCA5F72 - 3099653909507b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hJGN_copy.CustomCell.btnClickAct(Any) -&gt; ()"
+                  moduleName = "hJGN_copy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iyongsu/%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5/appYS/haaaaJotGotNe/haaaaJotGotNe/hJGN_copy/hJGN_copy/CustomCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0EA1A54-866A-49A8-AD00-ABA694D7A81A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "btnClickAct(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "566A45F0-B74D-4518-B59B-55BA139E4DEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CustomCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B33DA3A-728E-4A4F-A931-D001239D2FB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1B1D157-4CBF-47CF-8C8B-9A938DFBFF1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hJGN_copy/CustomCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "btnClickAct(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
