@@ -12,8 +12,6 @@ class ViewController: UIViewController  {
 
     @IBOutlet weak var tableView_custom: UITableView!
     let cellName: String = "CustomCell"
-  
-    
     let cellTitle : Array<String> = ["angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile","angry", "crying", "smile"]
     
     override func viewDidLoad() {
@@ -39,7 +37,7 @@ extension ViewController: UITableViewDataSource, UITableViewDelegate {
         
         let title = cellTitle[indexPath.row]
         
-        CustomCell.imageView_custom.image = UIImage(systemName: title)
+        CustomCell.image_custom.image = UIImage(named : title)
         CustomCell.label_custom.text = title
         
         return CustomCell

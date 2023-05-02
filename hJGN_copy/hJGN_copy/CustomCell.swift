@@ -8,16 +8,13 @@
 import UIKit
 
 class CustomCell : UITableViewCell{
+   
     
-    @IBOutlet weak var imageView_custom: UIImageView!
+    @IBOutlet weak var btn_custom: UIButton!
+    @IBOutlet weak var image_custom: UIImageView!
     @IBOutlet weak var label_custom: UILabel!
-    @IBOutlet weak var button_custom: UIButton!
-    
-    
-    @IBAction func btnclick(_ sender: Any) {
-    }
- 
-    
+
+
     
     override func awakeFromNib() {
         super.awakeFromNib()
